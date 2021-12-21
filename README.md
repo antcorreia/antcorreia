@@ -17,7 +17,7 @@
   
   ### I also know these:
     ➤ Python
-    ➤ C
+    ➤ C / C++
     ➤ HTML
     ➤ Matlab
     ➤ VisualBasic
