@@ -28,5 +28,5 @@
     ➤ Trying to learn Japanese
   
 ## Other Competencies
-  ➤ I can also use OpenGL
+  ➤ I can also use OpenGL <br>
   ➤ I can play Bassoon
