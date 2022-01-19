@@ -19,7 +19,6 @@
   ➤ ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396) <br>
   ➤ ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C) <br>
   ➤ ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C) <br>
-  ➤ ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) <br>
   ➤ ![Visual Basic](https://img.shields.io/badge/-VisualBasic-333333?style=flat&logo=VisualStudio) <br>
   ➤ ![Matlab](https://img.shields.io/badge/-Matlab-333333?style=flat&logo=Matlab) <br>
   
