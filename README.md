@@ -1,14 +1,14 @@
 # Hi there 👋
 
 ## Who am I?
-  My name is António, I'm currently studying Informatics Engeneering at <a href="https://www.uc.pt">University of Coimbra</a> <br>
+  My name is António, I'm currently studying Cybersecurity at <a href="https://www.uc.pt">University of Coimbra</a> <br>
   I also go by the names **Ant**, **Formiga** and **Corry**, feel free to call me whatever you think suits me best <br>
 
 ## About Me
   ➤ 👤 I'm Portuguese <br>
   ➤ 👶🏻 I was born in Portugal <br>
   ➤ 🏠 I'm also living in Portugal <br>
-  ➤ 🔭 I’m currently finishing my Bachelor's Degree <br>
+  ➤ 🔭 I’m currently taking my Master's Degree in Cybersecurity <br>
   ➤ 🌱 I’m currently working on a side project that has to do with Web Scratching <br>
 
 ## Languages
@@ -39,8 +39,7 @@
   ### I can speak:<br>
   ➤ Portuguese <br>
   ➤ English <br>
-  ➤ Trying to learn Japanese <br>
+  ➤ Learning Japanese at University of Coimbra <br>
   
 ## Other Competencies
   ➤ I can play Bassoon <br>
-  ➤ I'm a table tennis player
