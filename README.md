@@ -2,10 +2,12 @@
 
 ## Who am I?
   My name is António, I'm currently studying Cybersecurity at <a href="https://www.uc.pt">University of Coimbra</a> <br>
+  I have also finished my Bachelor's degree in Informatics Engineering at <a href="https://www.uc.pt">University of Coimbra</a> <br> 
   I also go by the names **Ant**, **Formiga** and **Corry**, feel free to call me whatever you think suits me best <br>
 
 ## About Me
   ➤ 👤 I'm Portuguese <br>
+  ➤ 🕒 I'm 21 years old <br>
   ➤ 👶🏻 I was born in Portugal <br>
   ➤ 🏠 I'm also living in Portugal <br>
   ➤ 🔭 I’m currently taking my Master's Degree in Cybersecurity <br>
