@@ -11,7 +11,6 @@
   ➤ 👶🏻 I was born in Portugal <br>
   ➤ 🏠 I'm also living in Portugal <br>
   ➤ 🔭 I’m currently taking my Master's Degree in Cybersecurity <br>
-  ➤ 🌱 I’m currently working on a side project that has to do with Web Scratching <br>
 
 ## Languages
   ### My favorite programming language is:
